@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shadow-dark-main/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/shadow-dark-main/"}
 ---
 
 [[Go Shapes\|Go Shapes]]

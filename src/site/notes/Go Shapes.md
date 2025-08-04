@@ -15,13 +15,12 @@ Judging the "speed" at which you should move in all situations comes with experi
 ---
 
 ![Pasted image 20250804145959.png](/img/user/zzzImages/Pasted%20image%2020250804145959.png)
-
+# Diagonal movement shapes
 Diagonal | knight | large knight
 
 If you want to do something further away than a large knight, it's probably wrong.
 
-
----
+# The diagonal cannot be cut
 
 ![Pasted image 20250804150138.png](/img/user/zzzImages/Pasted%20image%2020250804150138.png)
 
@@ -31,7 +30,7 @@ So if white takes A, black takes B and vice versa.
 That is what we call <span style="color: #009dff">miai</span>.
 
 ---
-
+# Knight
 But the <span style="color: #009dff">knight, can be cut</span>!  White approaches in the upper left, black tries to connect, and white can cut right through, and now black is split in two different groups.
 ![Pasted image 20250804150231.png](/img/user/zzzImages/Pasted%20image%2020250804150231.png)     ![Pasted image 20250804150245.png](/img/user/zzzImages/Pasted%20image%2020250804150245.png)
 
@@ -39,12 +38,10 @@ But the <span style="color: #009dff">knight, can be cut</span>!  White approache
 
 
 ---
-
+# Tiger
 ![Pasted image 20250804150629.png](/img/user/zzzImages/Pasted%20image%2020250804150629.png)   ![Pasted image 20250804150800.png](/img/user/zzzImages/Pasted%20image%2020250804150800.png)
 The <span style="color: #009dff">tiger's mouth shape</span> is a strong and common shape, but not used for movement.  It's used to defend the space surrounded by the 3 stones.  If white played there, the stone would be in atari immediately, and black could capture it.
 
-
----
 
 Example of a tiger shape being formed <span style="color: #06d001">naturally</span> by white in a real game.
 The uppermost stone is the one that white played last, forming the tiger's mouth, to prevent getting cut and remain strong in this general area.
