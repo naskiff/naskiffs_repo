@@ -20,5 +20,6 @@ These are used any time and do not cost a turn.
 - Escape: a trap or situation (through roleplay)
 - Materialize: "I happen to have X" (a mundane object)
 - Save someone!
+
 Multiple tokens can be used in a single turn.
 Max 2 tokens can be held per Player Character, cannot be used by NPCs.
