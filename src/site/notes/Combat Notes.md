@@ -31,15 +31,15 @@ Max 2 tokens can be held per Player Character, cannot be used by NPCs.
 
 **Very Easy Actions (DC 3)**
 (Meant to be combined with other actions, adding +3 to the DC)
-- <span style="color:rgb(255, 136, 0)">Take the blade</span>
-- <span style="color:rgb(255, 136, 0)">Fake hesitation</span>
-- <span style="color:rgb(71, 215, 186)">Repositioning / Circling</span> (When out of harm range)
-- <span style="color:rgb(71, 215, 186)">Half-step forward/back</span>
-- <span style="color:rgb(71, 215, 186)">Feint small movement</span>
-- Probe distance
-- Change stance / Change guard
-- Observe opponent / Scan surroundings
-- Slow breathing (Attempt to recover from disadvantage)
+	<span style="color:rgb(255, 136, 0)">Take the blade</span>
+<span style="color:rgb(255, 136, 0)">Fake hesitation</span>
+<span style="color:rgb(71, 215, 186)">Repositioning / Circling</span> (When out of harm range)
+<span style="color:rgb(71, 215, 186)">Half-step forward/back</span>
+<span style="color:rgb(71, 215, 186)">Feint small movement</span>
+Probe distance
+Change stance / Change guard
+Observe opponent / Scan surroundings
+Slow breathing (Attempt to recover from disadvantage)
 
 **Easy Actions (DC 12)**
 - <span style="color:rgb(255, 136, 0)">Bind weapon</span>
