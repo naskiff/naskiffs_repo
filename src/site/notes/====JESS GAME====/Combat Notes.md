@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jess-game/combat-notes/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/jess-game/combat-notes/"}
 ---
 
 
@@ -13,16 +13,7 @@ Traits can be roleplay and it's up to the GM to make that helpful in the story.
 
 ---
 
-![Pasted image 20260322202007.png|644](/img/user/zzzImages/Pasted%20image%2020260322202007.png)
-(1d30, odds of success per DC)
-
----
-
-<span style="color:rgb(71, 215, 186)">Flex</span>
-- increase your odds by 10% but increase the cost of failure,
-- or decrease your odds by 10% but +1/+2 advantage on success.
-
-<span style="color:rgb(71, 215, 186)">Hero Tokens</span>
+# Hero Tokens
 These are used any time and do not cost a turn.
 
 - Heroic Focus: Next roll is DC 4.
@@ -75,7 +66,8 @@ Max 2 tokens can be held per PC, cannot be used by NPCs.
 - Reverse losing position (Meant to be used with a <span style="color:rgb(0, 176, 80)">hero token</span>)
 
 ---
-#### Weapon ranges  
+
+# Weapon ranges  
 <span style="color:rgb(255, 255, 0)">grapple</span> optimal range +7 adv
 <span style="color:rgb(0, 176, 80)">unarmed</span> optimal range +3 adv
 <span style="color:rgb(71, 215, 186)">dagger</span> optimal range +7 adv
@@ -91,6 +83,3 @@ Sword vs dagger in Sword range
 Sword +7, dagger +7-5 = 2, Sword gets +17% better rolls (DC - 5) compared to dagger.
 Spear vs dagger in spear range
 Spear +7, Dagger +7-5-5 = -3, Spear gets +33% better rolls (DC - 10) compared to dagger.
-
----
-
