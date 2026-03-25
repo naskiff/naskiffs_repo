@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/shadow-dark-main/"}
 ---
 
-[[Go Shapes\|Go Shapes]]
+
 == To Do = =
 Fill Wizard Spells and continue from page 84.
 What to do on [[SubSections/Session Zero\|Session Zero]] ?
@@ -11,16 +11,6 @@ Develop [[SubSections/Renown\|Renown]], [[SubSections/Quandaries\|Quandaries]]
 Look up DnD [[Combat - Dodge\|Combat - Dodge]]
 Look up these plugins: statblock and leaflet.
 
-
-== Motivation ==
-My motivations for wanting to DMing are...
-1) Spending time with friends in SL
-2) I like taking and organizing notes, have been developing that slowly in the past 3 years
-3) I like to see others thrive or have a good time, especially if I had a role in it
-4) I like to entertain and make up stories
-5) I like to be thrust into random, short roleplay situations
-6) I think that narrated combat can potentially make everyone have a great time!
-7) It seems like a fun skill to learn, possibly useful. Improv, general things, storytelling.
 
 [[SubSections/Quick System Notes\|Quick System Notes]]
 [[SubSections/GM - Keep In Mind\|GM - Keep In Mind]]
@@ -42,7 +32,7 @@ My motivations for wanting to DMing are...
 [[SubSections/World Building\|World Building]]
 [[Campaign Building\|Campaign Building]]
 [[Faction Seeds\|Faction Seeds]]
-
+[[Avoid Modern Values\|Avoid Modern Values]]
 
 == Gameplay ==
 [[SubSections/Gameplay\|Gameplay]]
@@ -56,3 +46,16 @@ My motivations for wanting to DMing are...
 
 == The Story ==
 [[The Queen Of Kings\|The Queen Of Kings]]
+
+
+
+
+== Motivation ==
+My motivations for wanting to DMing are...
+1) Spending time with friends in SL
+2) I like taking and organizing notes, have been developing that slowly in the past 3 years
+3) I like to see others thrive or have a good time, especially if I had a role in it
+4) I like to entertain and make up stories
+5) I like to be thrust into random, short roleplay situations
+6) I think that narrated combat can potentially make everyone have a great time!
+7) It seems like a fun skill to learn, possibly useful. Improv, general things, storytelling.

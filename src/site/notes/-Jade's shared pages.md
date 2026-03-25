@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/jade-s-shared-pages/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/jade-s-shared-pages/"}
 ---
 
 
 # TTRPG
--
+- [[====JESS GAME====/Combat Notes\|Combat Notes]]
 
-# Go
-- [[Go Shapes\|Go Shapes]]
-- 
