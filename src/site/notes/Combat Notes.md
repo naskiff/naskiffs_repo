@@ -41,10 +41,10 @@ Change stance / Change guard
 Observe opponent / Scan surroundings
 Slow breathing (Attempt to recover from disadvantage)
 
-**Easy Actions (DC 12)**
-- <span style="color:rgb(255, 136, 0)">Bind weapon</span>
-- <span style="color:rgb(71, 215, 186)">Repositioning</span> (When unimpeded)
-- Distract, Feint
+### Easy Actions (DC 12)
+<span style="color:rgb(255, 136, 0)">Bind weapon</span>
+<span style="color:rgb(71, 215, 186)">Repositioning</span> (When unimpeded)
+Distract, Feint
 
 **Standard Actions (DC 16)**
 - <span style="color:rgb(255, 136, 0)">Hook weapon</span>
