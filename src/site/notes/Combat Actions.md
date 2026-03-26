@@ -12,7 +12,7 @@
 - <span style="color:rgb(255, 136, 0)">Fake hesitation</span>
 - <span style="color:rgb(71, 215, 186)">Repositioning / Circling</span> (When out of harm range)
 - <span style="color:rgb(71, 215, 186)">Half-step forward/back</span>
-- <span style="color:rgb(71, 215, 186)">Feint small movement</span>
+- Feint small movement
 - Probe distance
 - Change stance / Change guard
 - Observe opponent / Scan surroundings
