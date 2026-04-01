@@ -22,7 +22,7 @@ And up there, in the sky, is the Heart of Arawn, the Eternal King of Annwn.
 The Heart is a giant floating ball, pulsating with power.  It expands violently, breaking into countless black shards to soak the world into a pale pink light, before contracting lazily until the shards reform into a ball, to leave just a faint, blood red glow.
 
 Your brothers begin chanting, "Find Aeron... Save the Kuun..."
-You join them, gazing into the Heart of Arawn, welcoming and trance...
+You join them, gazing into the Heart of Arawn, welcoming the trance...
 "Find Aeron... Save the Kuun..."
 This is our last hope.
 
