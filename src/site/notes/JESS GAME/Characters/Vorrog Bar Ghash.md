@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/jess-game/characters/vorrog-bar-ghash/"}
 ---
 
+# Vorrog Bar Ghash
+
 Your are sitting on the grass and waiting, meditative...  You look to the side and see your dwarven brothers, wearing the same robes as you.
 
 You look down to your stubby legs, before reaching for your beard, stroking it down with your broad dwarven hand, exhaling away all the pressure on your mind that remained...
