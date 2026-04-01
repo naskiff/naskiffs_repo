@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/traits-and-hero-tokens/"}
 ---
 
+
 # Traits instead of stats
 Level 1 characters can spend 7 points towards any traits that they want.
 Categories are Offensive, Defensive, and non-combat, minimum 1 in each category.
@@ -11,6 +12,7 @@ Traits can be free if they have a fair drawback.
 Traits can be roleplay and it's up to the GM to make that helpful in the story.
 
 ---
+
 
 # Hero Tokens
 These are used any time and do not cost a turn.
