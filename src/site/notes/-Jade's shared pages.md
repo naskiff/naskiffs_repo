@@ -8,6 +8,7 @@
 - [[Weapon Ranges\|Weapon Ranges]]
 
 - [[JESS GAME/Characters/Vorrog Bar Ghash\|Vorrog Bar Ghash]]
+- [[JESS GAME/Journal/4\|4]]
 
 
 ## Odds of success against a DC with 1d30
