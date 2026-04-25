@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/weapon-ranges/"}
 ---
 
+
 <span style="color:rgb(255, 255, 0)">grapple</span> optimal range +7 adv
 <span style="color:rgb(0, 176, 80)">unarmed</span> optimal range +3 adv
 <span style="color:rgb(71, 215, 186)">dagger</span> optimal range +7 adv

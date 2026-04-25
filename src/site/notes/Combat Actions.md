@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/combat-actions/"}
 ---
 
+
 # Actions
 (This list is a guideline or help for inspiration)
 
 ---
-**Very Easy Actions (DC 3)**
+**Very Easy Actions (DC 8, or DC 3 if added to others)**
 (Meant to be combined with other actions, adding +3 to the DC)
 - <span style="color:rgb(255, 136, 0)">Take the blade</span>
 - <span style="color:rgb(255, 136, 0)">Fake hesitation</span>
